@@ -1,0 +1,30 @@
+button.btn.btn-primary{
+}
+
+button.btn.btn-success.btn-lg{
+  width: 300px;
+  padding: 20px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 150%;
+  background: #3366cc;
+  color: #fff;
+  border: 1px solid #3366cc;
+  margin-left: 470px;
+  border-radius: 10px;
+}
+button.btn.btn-success.btn-lg:hover {
+  color: #ffff00;
+  background: #000;
+  border: 1px solid #fff;
+}
+
+label.control-label{
+  margin-left:30px;
+}
+
+textarea#textarea-input.form-control.input-lg{
+  margin-left:70px;
+  width:1100px;
+}
+

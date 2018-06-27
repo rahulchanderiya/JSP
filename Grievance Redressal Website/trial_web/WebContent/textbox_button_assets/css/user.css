@@ -1,0 +1,176 @@
+header{
+  margin:50px 0 20px;
+  text-align:center;
+  padding:0 10px;
+}
+
+header h1{
+  font-weight:bold;
+  margin-bottom:12px;
+  font-size:28px;
+  margin-top:30px;
+}
+
+.content{
+  max-width:500px;
+  margin:0 auto;
+}
+
+.content h2{
+  font-size:18px;
+  font-weight:bold;
+  margin:40px 0 30px;
+}
+
+.content figure{
+  text-align:center;
+  margin:20px 0;
+}
+
+.content figcaption{
+  font-size:12px;
+  padding-top:10px;
+}
+
+.content div.dropdown{
+  margin:20px auto;
+  width:100px;
+}
+
+.content blockquote p{
+  font-size:14px;
+}
+
+input{
+  margin-left:10px;
+  margin-top:10px;
+  position:absolute;
+}
+
+input.form-control{
+  margin-top:1px;
+}
+
+a.navbar-brand.navbar-link{
+  font-size:30px;
+}
+
+p{
+  font-size:20px;
+  margin-left:10px;
+  margin-right:10px;
+}
+
+h1{
+  margin-left:10px;
+  background-color:inherit;
+}
+
+a.btn.btn-primary.btn-lg.hero-button{
+}
+
+a#login.btn.btn-primary.btn-lg.hero-button{
+  margin-top:200px;
+}
+
+h1.hero-title{
+  margin-top:-80px;
+}
+
+input{
+}
+
+input#password{
+  margin-top:px;
+}
+
+input#password{
+  margin-top:40px;
+}
+
+input#username{
+  padding-left:20px;
+}
+
+input#uname{
+}
+
+button.btn.btn-default{
+  margin-top:200px;
+}
+
+button.btn.btn-success.btn-lg{
+  margin-top:200px;
+}
+
+label.control-label{
+  margin-top:30px;
+}
+
+label.control-label{
+  margin-top:1px;
+}
+
+button.btn.btn-success{
+  margin-top:70px;
+  margin-left:3px;
+}
+
+a.btn.btn-success{
+  margin-top:70px;
+}
+
+h1.text-left.text-success{
+  margin-top:50px;
+}
+
+input{
+  style:position:;
+}
+
+input{
+  position:absolute;
+}
+
+input{
+  position:relative;
+}
+
+h1.text-left.text-success{
+  position:initial;
+}
+
+a.btn.btn-success{
+  position:relative;
+}
+
+a.btn.btn-success{
+  margin-left:-209px;
+}
+
+h1{
+}
+
+h1{
+}
+
+h1.text-right.text-success{
+  margin-right:20px;
+  margin-top:inherit;
+}
+
+h1.text-right.text-success{
+  text-align:center;
+}
+
+h1.text-left.text-success{
+}
+
+div.col-md-5{
+  margin-right:80px;
+}
+
+div.col-md-5{
+  margin-left:350px;
+}
+
